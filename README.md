@@ -1,2 +1,2 @@
 # october_repo1
-Sample repositry
+Sample repositry for october month
